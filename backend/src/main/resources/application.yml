@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: portfolio-backend
+  profiles:
+    active: ${SPRING_PROFILES_ACTIVE:dev}
+
+app:
+  frontend-url: ${FRONTEND_URL:http://localhost:5173,http://localhost:3000}
+  admin-key: ${ADMIN_KEY:portfolio-admin-secret-key-2026}
