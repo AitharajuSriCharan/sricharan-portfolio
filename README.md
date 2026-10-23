@@ -114,7 +114,7 @@ VITE_API_BASE_URL=http://localhost:8080/api
 VITE_RESUME_URL=/resume.pdf
 VITE_GITHUB_URL=https://github.com/AitharajuSriCharan
 VITE_LINKEDIN_URL=
-VITE_EMAIL=
+VITE_EMAIL=sricharanaitharaju@gmail.com
 ```
 
 ### 3. Run Development Server

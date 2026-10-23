@@ -40,7 +40,7 @@ export const PERSONAL_INFO = {
   socials: {
     github: import.meta.env.VITE_GITHUB_URL || 'https://github.com/AitharajuSriCharan',
     linkedin: import.meta.env.VITE_LINKEDIN_URL || '',
-    email: import.meta.env.VITE_EMAIL || '',
+    email: import.meta.env.VITE_EMAIL || 'sricharanaitharaju@gmail.com',
     resume: import.meta.env.VITE_RESUME_URL || 'https://drive.google.com/file/d/1J8blqYIfCdWulH8lvXGUX18DvsWH9o7D/view?usp=drive_link',
   },
 };
