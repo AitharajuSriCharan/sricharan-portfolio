@@ -1,6 +1,51 @@
-# Aitharaju Sri Charan — Professional ECE Portfolio
+# ⚡ Aitharaju Sri Charan — Professional ECE & VLSI Portfolio
 
-> **Electronics & Communication Engineering Portfolio** specializing in **VLSI Design**, **RTL Synthesis**, **FPGA Prototyping**, and **Embedded Systems**.
+<p align="center">
+  <a href="https://sricharan-ece.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-sricharan--ece.vercel.app-00f2fe?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/AitharajuSriCharan/sricharan-portfolio">
+    <img src="https://img.shields.io/badge/GitHub-sricharan--portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+  <img src="https://img.shields.io/badge/Verilog_HDL-00599C?style=flat-square" alt="Verilog" />
+  <img src="https://img.shields.io/badge/Vercel_Edge-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+---
+
+## 📖 About The Project
+
+This repository hosts the source code for the **Professional Engineering Portfolio Platform** of **Aitharaju Sri Charan**. Architected as a modern, decoupled full-stack application, it bridges the gap between hardware engineering (**VLSI Design**, **RTL Synthesis**, **FPGA Prototyping**, and **Embedded Systems**) and modern, performant web engineering.
+
+### 🌟 Key Highlights
+- **Interactive Multi-Lingual Intro Animation:** Dynamic cyber-aesthetic opening greeting in multiple Indian and international languages leading to a smooth portal reveal.
+- **Hardware Circuit Aesthetic:** Tailored dark theme (`#070d18` void black, `#00f2fe` electric cyan) with hardware schematics, orbital circuit lines, and microchip borders.
+- **Featured Real-World Engineering Projects:**
+  - **JalNetra — Smart Water Monitoring System:** Selected for **Smart India Hackathon (SIH) 2025**.
+  - **Smart Railway Track Crack Detection System:** Autonomous IR sensor-based anomaly detection simulated in Tinkercad.
+  - **Biometric Fingerprint Image Quality Estimator:** MATLAB gradient & spatial clarity processing pipeline.
+  - **Hardware-Accelerated Edge-AI Plant Stress Monitor:** Verilog RTL systolic datapath for AMD/Xilinx Vivado FPGA synthesis.
+- **Decoupled Architecture:** React 19 Single Page Application on the frontend with a Spring Boot 3.x / Serverless REST API on the backend for contact telemetry and health monitoring.
+- **Live Production Deployment:** Hosted globally on Vercel Edge Network with sub-second response times.
+
+---
+
+## 👨‍💻 About The Author
+
+- **Name:** Aitharaju Sri Charan
+- **Degree:** B.Tech in Electronics and Communication Engineering (ECE)
+- **Institution:** Anurag University (2024–2028)
+- **Academic Standing:** CGPA **8.49 / 10.0**
+- **Specializations:** VLSI Design, Verilog HDL, Digital Logic, FPGA Architectures, Microcontrollers (Arduino/ESP32), and Embedded Systems.
+- **Connect:** [GitHub Profile](https://github.com/AitharajuSriCharan) · [Live Portfolio](https://sricharan-ece.vercel.app)
 
 ---
 
