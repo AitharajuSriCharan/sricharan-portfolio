@@ -38,7 +38,7 @@ export const PERSONAL_INFO = {
     { label: 'Career Interests', value: 'VLSI, Digital Design, FPGA and Embedded Systems', icon: 'Cpu' },
   ],
   socials: {
-    github: import.meta.env.VITE_GITHUB_URL || 'https://github.com/SriCharanAitharaju',
+    github: import.meta.env.VITE_GITHUB_URL || 'https://github.com/AitharajuSriCharan',
     linkedin: import.meta.env.VITE_LINKEDIN_URL || '',
     email: import.meta.env.VITE_EMAIL || '',
     resume: import.meta.env.VITE_RESUME_URL || 'https://drive.google.com/file/d/1J8blqYIfCdWulH8lvXGUX18DvsWH9o7D/view?usp=drive_link',
@@ -144,7 +144,7 @@ export const PROJECTS: Project[] = [
     technologies: ['Arduino', 'IR Sensors', 'Embedded C/C++', 'Tinkercad', 'Alert System'],
     status: 'Completed',
     image: '/images/railway-crack.svg',
-    githubUrl: 'https://github.com/SriCharanAitharaju/Railwaytrack-Crack-Detection-System-Using-TinkerCad',
+    githubUrl: 'https://github.com/AitharajuSriCharan/Railwaytrack-Crack-Detection-System-Using-TinkerCad',
     viewDetails: {
       overview:
         'Designed and simulated in Autodesk Tinkercad to tackle railway safety hazards. Dual infrared transceiver sensors continuously monitor surface reflectance over rail geometries, triggering instant alert mechanisms upon detecting structural discontinuities.',
